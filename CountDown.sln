@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+# SharpDevelop 4.2.0.8649-Beta 2
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountDown", "CountDown\CountDown.csproj", "{D002A2DD-30AE-4008-AA08-269785716271}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D002A2DD-30AE-4008-AA08-269785716271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D002A2DD-30AE-4008-AA08-269785716271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D002A2DD-30AE-4008-AA08-269785716271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D002A2DD-30AE-4008-AA08-269785716271}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
